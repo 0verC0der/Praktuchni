@@ -1,0 +1,24 @@
+// #Лекція 11 завдання 1#
+/*function ReadNumber(){
+	let num = prompt("Vvedite chislo");
+	alert(num);
+}
+
+ReadNumber();*/
+
+
+// #Лекція 11 завдання 2#
+/*function random(min,max){
+	let rand = Math.random()* (max-min);
+	alert(rand);
+}
+random(5,100);*/
+
+
+// #Лекція 11 завдання 3#
+/*
+let num1 = prompt("Vvedite 1 chislo");
+let num2 = prompt("Vvedite 2 chislo");
+let sum = parseInt(num1)+parseInt(num2);
+
+alert(sum);*/
