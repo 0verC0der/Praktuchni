@@ -1,0 +1,13 @@
+// Лекція 13 завдання 1
+function unique(arr)
+{
+	for (var i = 0;i < arr.length;i++)
+	{
+		let output = Math.random() * arr[i];
+		console.log(output.toFixed(2));
+	}
+}
+
+let masiv = [1,5,6,3,7,2,1,5,4,8,9,2];
+unique(masiv);
+
