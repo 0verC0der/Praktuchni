@@ -1,0 +1,23 @@
+// Лекція 12 завдання 1
+/*function sum(count)
+{
+	new Array(count);
+	let suma = 0;
+	for (let i = 0 ; i < count ;i++)
+	{
+		Array[i] = parseInt(prompt(`Vvedite Array[${i}]`));
+		if (!Number.isInteger(Array[i]))
+		{
+			console.log("ERROR!");
+			break;
+		}
+		else{
+			suma += Array[i];
+		}
+	}
+	console.log(suma);
+
+}
+
+sum(5);
+*/
